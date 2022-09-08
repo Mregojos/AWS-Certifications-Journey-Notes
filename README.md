@@ -1,4 +1,4 @@
-# AWS-Certifications-Journey
+# AWS-Certifications-Journey-Notes
 Journey to AWS Certifications
 
 Logs (2022):
